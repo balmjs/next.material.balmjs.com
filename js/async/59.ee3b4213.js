@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[59],{JWpO:function(e,n,t){"use strict";t.r(n);var o=t("8r9s");var r={metaInfo:{titleTemplate:"%s - Upgrade Guide"},render:function(e,n,t,r,p,a){const c=Object(o.resolveComponent)("pure-page");return Object(o.openBlock)(),Object(o.createBlock)(c,{name:"upgrade"})}};n.default=r}}]);
